@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 print(‘Hello World!;’)
 print('And Nadya!;')
+print('Hello my dear friends!;')
+print('Glad to see you;')
